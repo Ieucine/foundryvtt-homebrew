@@ -121,5 +121,13 @@
       ],
       "folders": []
     }
-  ]
+  ],
+  "flags": {
+    "hotReload": false,
+    "dnd5e": {
+      "sourceBooks": {
+        "AIY": "SOURCE.BOOK.AIY"
+      }
+    }
+  }
 }
