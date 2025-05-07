@@ -16,7 +16,7 @@
   "url": "https://github.com/Ieucine/foundryvtt-homebrew",
   "packs": [
     {
-      "name": "character-classes",
+      "name": "classes",
       "label": "Character Classes",
       "path": "packs/character-classes",
       "type": "Item",
@@ -27,7 +27,7 @@
       "system": "dnd5e"
     },
     {
-      "name": "character-origins",
+      "name": "origins",
       "label": "Character Origins",
       "path": "packs/character-origins",
       "type": "Item",
@@ -71,7 +71,7 @@
       "system": "dnd5e"
     },
     {
-      "name": "roll-tables",
+      "name": "tables",
       "label": "Roll Tables",
       "path": "packs/roll-tables",
       "type": "RollTable",
@@ -102,6 +102,24 @@
         "ASSISTANT": "OWNER"
       },
       "system": "dnd5e"
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Player's Handbook",
+      "color": "#1e72cc",
+      "sorting": "m",
+      "packs": [
+        "classes",
+        "origins",
+        "feats",
+        "spells",
+        "equipment",
+        "tables",
+        "actors",
+        "scenes"
+      ],
+      "folders": []
     }
   ]
 }
