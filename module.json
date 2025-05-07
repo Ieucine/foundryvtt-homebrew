@@ -107,7 +107,7 @@
   "packFolders": [
     {
       "name": "Augury's Innovations of Yariah",
-      "color": "#cc811e",
+      "color": "#6e4616",
       "sorting": "m",
       "packs": [
         "classes",
@@ -126,7 +126,7 @@
     "hotReload": false,
     "dnd5e": {
       "sourceBooks": {
-        "AIY": "SOURCE.BOOK.AIY"
+        "AIY": "Augury's Innovations of Yariah"
       }
     }
   }
